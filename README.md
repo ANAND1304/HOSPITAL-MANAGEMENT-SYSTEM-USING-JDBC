@@ -1,3 +1,4 @@
+
 # HOSPITAL-MANAGEMENT-SYSTEM-USING-JDBC
 This project is a Hospital Management System implemented using Java Database Connectivity (JDBC).
 
@@ -14,3 +15,4 @@ View patient name
 View doctors name
 Billing and payment processing (upcoming soon)
 This project aims to provide a comprehensive and efficient solution for hospital management, improving the overall workflow and patient care.
+![Screenshot 2024-04-22 144951](https://github.com/ANAND1304/HOSPITAL-MANAGEMENT-SYSTEM-USING-JDBC/assets/130790148/56d84877-fe1e-473d-835d-138f37fc93b2)
